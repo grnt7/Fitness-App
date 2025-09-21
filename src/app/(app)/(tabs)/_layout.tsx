@@ -2,6 +2,7 @@ import { View, Text, Image } from 'react-native'
 import React from 'react'
 import { Tabs } from 'expo-router'
 import AntDesign from '@expo/vector-icons/AntDesign'
+
 import { useUser } from "@clerk/clerk-expo"
 
 const Layout = () => {
@@ -27,7 +28,8 @@ const Layout = () => {
         options={{headerShown:false,
         title:"Workout",
         tabBarIcon: ( {color, size}) => (   
-            <AntDesign name="pluscircle" size={size} color={color} />
+            <AntDesign name="plus-circle" family="anticon" size={size} color={color}  />
+
         ),
     }}
 /> 
@@ -43,7 +45,7 @@ const Layout = () => {
         options={{
             title:"History",
             tabBarIcon: ( {color, size}) => (   
-                <AntDesign name="clockcircleo" size={size} color={color} />
+                 <AntDesign name="clock-circle" family="anticon" size={size} color={color} />
             ),
             headerShown:false,    
             
