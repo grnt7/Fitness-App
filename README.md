@@ -10,7 +10,8 @@ A high-performance, commercially viable web system / cross-platform mobile appli
 
 | Main Dashboard / UI | Core Feature / Flow | System Settings / Database Interaction |
 | --- | --- |---|
-|<img width="237" height="500" alt="FitnessTrackerHomepage" src="https://github.com/user-attachments/assets/541f07d4-b687-4da1-9269-823c3c15529d" /> |  <img width="237" height="500" alt="Fitness-App-Ai-Guidance" src="https://github.com/user-attachments/assets/e02bcaa9-f300-41a7-8468-97a0e5af0328" /> | <img width="237" height="500" alt="Profile-Page" src="https://github.com/user-attachments/assets/33c4ad83-e42a-4fd2-9161-251e7c2bcd77" />
+|<img width="237" height="500" alt="Fit-app-HomepageDark" src="https://github.com/user-attachments/assets/e25f8579-86fd-42e2-b672-3f657aa65b8f" />
+ |  <img width="237" height="500" alt="Fitness-App-Ai-Guidance" src="https://github.com/user-attachments/assets/e02bcaa9-f300-41a7-8468-97a0e5af0328" /> | <img width="237" height="500" alt="Profile-Page" src="https://github.com/user-attachments/assets/33c4ad83-e42a-4fd2-9161-251e7c2bcd77" />
   
 
  
