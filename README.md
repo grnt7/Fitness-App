@@ -10,7 +10,8 @@ A high-performance, commercially viable web system / cross-platform mobile appli
 
 | Main Dashboard / UI | Core Feature / Flow | System Settings / Database Interaction |
 | --- | --- |---|
-|<img width="237" height="500"  alt="FitAI-Homepage" src="https://github.com/user-attachments/assets/0fba42d4-9f46-443a-bd2f-9e1de25deee4" /> |<img width="237" height="500" alt="Fitness-App-Ai-Guidance" src="https://github.com/user-attachments/assets/e02bcaa9-f300-41a7-8468-97a0e5af0328"/> | <img width="237" height="500" alt="FitAi-Profile" src="https://github.com/user-attachments/assets/8f963752-28f4-4b6b-9957-d712dfea1fa7" />
+|<img width="237" height="500"  alt="FitAI-Homepage" src="https://github.com/user-attachments/assets/0fba42d4-9f46-443a-bd2f-9e1de25deee4" /> |<img width="237" height="500" alt="Fitness-App-Ai-Guidance" src="https://github.com/user-attachments/assets/e02bcaa9-f300-41a7-8468-97a0e5af0328"/> | <img width="237" height="500"  alt="Profile" src="https://github.com/user-attachments/assets/aed771e7-6ba2-4955-ac16-b38fda3ecff0" />
+
 
 
 
